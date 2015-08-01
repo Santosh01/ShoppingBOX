@@ -1,0 +1,34 @@
+#sidebar{
+	float:right;
+	margin-right:5px;
+	width:248px;
+	margin-top:-70px;
+	
+}
+#sidebar a{
+	font-size:11px;
+	color:#000;
+}
+#sidebar a.simpleCart_checkout,
+.checkoutEmptyLinks a.simpleCart_checkout{
+	display:-moz-inline-box;
+	display:inline-block;
+	width:87px;
+	height:25px;
+	background:url(images/btnCheckout.gif);
+	overflow:hidden;
+	margin-left:100px;
+	vertical-align:middle;
+	text-indent:-9999px;
+	font-size:0;
+}
+h2{
+	font-size:22px;
+	color:#429132;
+}
+#content{
+	background:url(images/bg_content.png);
+	width:1044px;
+	height:562px;
+	margin:90px auto 20px auto;
+}
